@@ -1,4 +1,3 @@
-
 # KRS API Integration Project
 
 This project provides tools for integrating with the Polish National Court Register (Krajowy Rejestr S√Ñ‚Ä¶dowy - KRS) API and analyzing company relationships using Neo4j.
@@ -237,7 +236,7 @@ For testing, you can use the following data for Cyfrowy Polsat S.A.:
 - KRS: 0000010078
 - NIP: 7961810732
 - REGON: 670925160
-- Address: ul. ƒπÔøΩUBINOWA 4A, WARSZAWA
+- Address: ul. ƒπÌ≤ÅUBINOWA 4A, WARSZAWA
 
 ## License
 

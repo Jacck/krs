@@ -1,0 +1,4 @@
+requests>=2.28.0
+python-dotenv>=1.0.0
+neo4j>=5.15.0
+xmltodict>=0.13.0
